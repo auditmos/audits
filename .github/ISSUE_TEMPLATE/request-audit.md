@@ -8,7 +8,6 @@ assignees: tkowalczyk
 ---
 
 1. Select a blockchain on which you have your smart contracts:
-   - [ ] Terra
    - [ ] Solana
    - [ ] EVM based
 2. Repository visibility on GitHub:
